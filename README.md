@@ -28,7 +28,9 @@ Navigate to the project directory:
 bash
 Copiar
 Editar
-cd ISIL_WEB_ATLETICO_SULLANA
+   ```bash
+   cd ISIL_WEB_ATLETICO_SULLANA
+   ```
 Open the index.html file in your preferred web browser to view the website.
 
 ⚠️ No additional setup is required as the project consists of static files.
@@ -53,19 +55,14 @@ HTML5
 CSS3
 
 ## 🛠️ Instalación y Uso
-Clona el repositorio:
 
-bash
-Copiar
-Editar
-git clone https://github.com/dialoma/ISIL_WEB_ATLETICO_SULLANA.git
-Navegá hasta el directorio del proyecto:
-
-bash
-Copiar
-Editar
-cd ISIL_WEB_ATLETICO_SULLANA
-Abrí el archivo index.html en tu navegador preferido para ver el sitio.
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/dialoma/ISIL_WEB_ATLETICO_SULLANA.git
+2. Navega hasta el directorio del proyecto:
+   ```bash
+   cd ISIL_WEB_ATLETICO_SULLANA
+3. Abre el archivo index.html en tu navegador preferido para ver el sitio.
 
 ⚠️ No se necesita configuración adicional, ya que el proyecto consiste en archivos estáticos.
 
