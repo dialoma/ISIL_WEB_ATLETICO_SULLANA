@@ -23,15 +23,11 @@ This project was created as part of the *Web Development* course at *ISIL (Insti
 1. Clone the repository:
    ```bash
    git clone https://github.com/dialoma/ISIL_WEB_ATLETICO_SULLANA.git
-Navigate to the project directory:
-
-bash
-Copiar
-Editar
+2. Navigate to the project directory:
    ```bash
    cd ISIL_WEB_ATLETICO_SULLANA
    ```
-Open the index.html file in your preferred web browser to view the website.
+3. Open the index.html file in your preferred web browser to view the website.
 
 ⚠️ No additional setup is required as the project consists of static files.
 
