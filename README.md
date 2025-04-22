@@ -44,15 +44,15 @@ Diego López – @dialoma
 # 📌 ISIL_WEB_ATLETICO_SULLANA
 Un proyecto web dedicado al Club Atlético Sullana, que presenta información del equipo, contenido multimedia y opciones de contacto. Este sitio fue desarrollado como parte de un trabajo académico para demostrar conocimientos en desarrollo web front-end.
 
-🎓 Contexto Académico
+## 🎓 Contexto Académico
 Este proyecto fue realizado como parte del curso de Desarrollo Web en el Instituto San Ignacio de Loyola (ISIL).
 
-🚀 Tecnologías Utilizadas
+## 🚀 Tecnologías Utilizadas
 HTML5
 
 CSS3
 
-🛠️ Instalación y Uso
+## 🛠️ Instalación y Uso
 Clona el repositorio:
 
 bash
