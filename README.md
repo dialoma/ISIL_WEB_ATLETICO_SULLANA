@@ -1,4 +1,3 @@
-﻿# ISIL_WEB_ATLETICO_SULLANA
 # 📌 ISIL_WEB_ATLETICO_SULLANA
 
 A web project dedicated to Club Atlético Sullana, showcasing team information, multimedia content, and contact options. This site was developed as part of an academic assignment to demonstrate proficiency in front-end web development.
